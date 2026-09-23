@@ -1,2 +1,2 @@
-66ede1eae34b9a12cc61feb49c0f666b94a84dc2586df47f52a1273ec117d7a8  API-Braspress-Setup.exe
-0051e9cfd3010c181bc0e98f78a04642ef14261fd6b3598cad617d9c63466b64  API-Braspress-Portable.zip
+2f2b76e2e5ea911b2248cdbcc6b93aa52518f454ff63868e2d77ad5cf806d296  API-Braspress-Setup.exe
+ad0f44d973b885e62a54ad19d61e10a8db78cc363d3ca80a2ae46badd75d4467  API-Braspress-Portable.zip
