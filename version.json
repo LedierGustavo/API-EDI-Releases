@@ -1,17 +1,17 @@
 {
-  "version": "1.0.2",
-  "published_at": "2026-09-23T17:22:35.344938Z",
-  "notes": "Release v1.0.2",
+  "version": "1.0.3",
+  "published_at": "2026-09-23T18:25:34.837865Z",
+  "notes": "Release v1.0.3",
   "setup": {
-    "url": "https://github.com/LedierGustavo/API-EDI-Releases/releases/download/v1.0.2/API-Braspress-Setup.exe",
-    "sha256": "bae3ee1a25e5bc7852f7adc48cc18de8ef28364795556e64ab8b6f724b139d77",
-    "size": 25967618,
+    "url": "https://github.com/LedierGustavo/API-EDI-Releases/releases/download/v1.0.3/API-Braspress-Setup.exe",
+    "sha256": "66ede1eae34b9a12cc61feb49c0f666b94a84dc2586df47f52a1273ec117d7a8",
+    "size": 25969475,
     "filename": "API-Braspress-Setup.exe"
   },
   "portable": {
-    "url": "https://github.com/LedierGustavo/API-EDI-Releases/releases/download/v1.0.2/API-Braspress-Portable.zip",
-    "sha256": "f435f5cc6bf95d023bc4497b21e0d9c613a29cd5152f83d5ed121db2fa5eb6a3",
-    "size": 32732786,
+    "url": "https://github.com/LedierGustavo/API-EDI-Releases/releases/download/v1.0.3/API-Braspress-Portable.zip",
+    "sha256": "0051e9cfd3010c181bc0e98f78a04642ef14261fd6b3598cad617d9c63466b64",
+    "size": 32731816,
     "filename": "API-Braspress-Portable.zip"
   }
 }
